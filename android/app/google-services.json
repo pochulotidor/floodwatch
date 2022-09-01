@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380820734698",
+    "firebase_url": "https://waterlevel-acc69-default-rtdb.firebaseio.com",
+    "project_id": "waterlevel-acc69",
+    "storage_bucket": "waterlevel-acc69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380820734698:android:6b3f18652bf780ce5e0d93",
+        "android_client_info": {
+          "package_name": "com.micropit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380820734698-qctqpirq6ge5uahqi96pcvuj8jmdlmro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOINsaMSaNg-a_3uX0X-0RupnaqRlyt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380820734698-qctqpirq6ge5uahqi96pcvuj8jmdlmro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
